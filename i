@@ -1,5 +1,5 @@
 local DiscordLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/ginchao/Discord-Lib/main/Discord-Lib'))()   
-   local win = DiscordLib:Window("[Khánh Ngọc] ".." ")   
+   local win = DiscordLib:Window("[Duy Bảo] ".." ")   
 local per = game:GetService("Players").LocalPlayer.Name
  DiscordLib:Notification("Premium Stars ⭐ Share","Hello! ".."⭐"..per..".                                              ".." Thanks For Buy Premium ","Ok") 
 
